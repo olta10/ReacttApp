@@ -8,7 +8,16 @@
         "stock": "yes",
         "image": "oltak.jpg",
         "description": "oooooooooooooooo"
-    }
+    },
 
+    {
+        "id":2,
+        "name": "Era",
+        "category": "phone",
+        "price": "phone",
+        "stock": "yes",
+        "image": "erak.jpg",
+        "description": "eeeeeeeeeeeeeeee"
+    }
 
 ]
